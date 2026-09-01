@@ -2,12 +2,12 @@
 
 **Accel** — CachyOS / niri / Noctalia desktop · self-hosting · agent workflows
 
-## About · 简介
+## About
 
-- niri + Noctalia + `chezmoi` 3-layer dotfiles, synced across machines<br/>Linux 桌面基建:三层 dotfiles 多机同步
-- Rust services · user systemd · Cloudflare Tunnel · zero plaintext secrets<br/>自托管:密钥全程零明文
-- Heavy Claude Code user — custom skills, statusline, usage pipeline<br/>Agent 工作流:自建 skill / 状态栏 / 用量链路
-- Team direction: agentic infrastructure · enterprise security ops<br/>Team 协作方向:agentic infra · 企业级安全运维
+- niri + Noctalia + `chezmoi` 3-layer dotfiles, synced across machines
+- Rust services · user systemd · Cloudflare Tunnel · zero plaintext secrets
+- Heavy Claude Code user — custom skills, statusline, usage pipeline
+- Team direction: agentic infrastructure · enterprise security ops
 
 <p>
 <img src="https://img.shields.io/badge/Rust-161b26?style=flat-square&logo=rust&logoColor=8bc3ff" alt="Rust"/>
