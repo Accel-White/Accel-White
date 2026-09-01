@@ -13,9 +13,4 @@
 
 最小权限 · 密钥零明文 · 可审查可回滚 · 上游优先
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Accel-White&show_icons=true&hide_border=true&bg_color=00000000&title_color=8bc3ff&text_color=a8b3cf&icon_color=8bc3ff" alt="stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Accel-White&layout=compact&hide_border=true&bg_color=00000000&title_color=8bc3ff&text_color=a8b3cf" alt="langs" height="150"/>
-</p>
-
 <p align="right"><samp>♪ るんるんる〜ン ♪</samp></p>
