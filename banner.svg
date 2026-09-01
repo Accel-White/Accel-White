@@ -12,7 +12,7 @@
 <text x="28" y="179" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#6b7a99">Theme   </text>
 <text x="130" y="179" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#e6e9f2">Material You dynamic</text>
 <text x="28" y="206" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#6b7a99">Secrets </text>
-<text x="130" y="206" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#e6e9f2">1Password · 零明文</text>
+<text x="130" y="206" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#e6e9f2">1Password · zero plaintext</text>
 <text x="28" y="233" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#6b7a99">Shell   </text>
 <text x="130" y="233" font-family="ui-monospace,Menlo,monospace" font-size="15" fill="#e6e9f2">chezmoi 3-layer dotfiles</text>
 <rect x="816" y="164" width="6" height="6" fill="#7aa2f7"/>
