@@ -1,4 +1,4 @@
-<p><img src="banner.svg" alt="accel@niri — whoami" width="880"/></p>
+<p><img src="banner.svg?v=en1" alt="accel@niri — whoami" width="880"/></p>
 
 **Accel** — CachyOS / niri / Noctalia desktop · self-hosting · agent workflows
 
